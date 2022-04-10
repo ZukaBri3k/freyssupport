@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f03eb9c4.css",
+    "main.js": "/static/js/main.2526de54.js",
+    "static/js/787.70314439.chunk.js": "/static/js/787.70314439.chunk.js",
+    "static/media/presentationFreyss.webm": "/static/media/presentationFreyss.b1b9c1614db8ac3a607e.webm",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/ionicons.svg?v=2.0.0": "/static/media/ionicons.b45d332f6829d6813600.svg",
+    "static/media/logoInsta.png": "/static/media/logoInsta.be615df3b876becdfb80.png",
+    "static/media/ionicons.ttf?v=2.0.0": "/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/ionicons.eot?v=2.0.0": "/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
+    "static/media/logoFreyss.png": "/static/media/logoFreyss.c216e834f9a29186becc.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ionicons.woff?v=2.0.0": "/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/meeting.jpg": "/static/media/meeting.1bdd2c129339a211e5ed.jpg",
+    "static/media/logo192.png": "/static/media/logo192.399a0dea9382c0e7ab9c.png",
+    "index.html": "/index.html",
+    "main.f03eb9c4.css.map": "/static/css/main.f03eb9c4.css.map",
+    "main.2526de54.js.map": "/static/js/main.2526de54.js.map",
+    "787.70314439.chunk.js.map": "/static/js/787.70314439.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03eb9c4.css",
+    "static/js/main.2526de54.js"
+  ]
+}
