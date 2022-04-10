@@ -117,7 +117,7 @@ export default function SignUp() {
           //console.log(e)
         }
       };
-      addUser();
+      await addUser();
       formRef.current.reset();
       navigate("/private/account/");
     } catch (e) {
